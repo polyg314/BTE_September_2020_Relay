@@ -1,0 +1,8 @@
+input,input_type,pred1,pred1_source,pred1_api,pred1_pubmed,node1_type,node1_name,node1_id,pred2,pred2_source,pred2_api,pred2_pubmed,output_type,output_name,output_id
+2019 NOVEL CORONAVIRUS,Disease,related_to,DISEASE,DISEASES API,,Gene,MB,NCBIGene:4151,related_to,Translator Text Mining Provider,CORD Biological Process API,,Gene,POSITIVE REGULATION OF BLOOD VESSEL SIZE,GO:GO:0042311
+2019 NOVEL CORONAVIRUS,Disease,related_to,DISEASE,DISEASES API,,Gene,CRP,NCBIGene:1401,related_to,Translator Text Mining Provider,CORD Biological Process API,,Gene,POSITIVE REGULATION OF BLOOD VESSEL SIZE,GO:GO:0042311
+2019 NOVEL CORONAVIRUS,Disease,related_to,scigraph,Automat CORD19 Scigraph API,,Gene,CRP,NCBIGene:1401,related_to,Translator Text Mining Provider,CORD Biological Process API,,Gene,POSITIVE REGULATION OF BLOOD VESSEL SIZE,GO:GO:0042311
+2019 NOVEL CORONAVIRUS,Disease,related_to,DISEASE,DISEASES API,,Gene,ACE,NCBIGene:1636,related_to,Translator Text Mining Provider,CORD Biological Process API,,Gene,POSITIVE REGULATION OF BLOOD VESSEL SIZE,GO:GO:0042311
+2019 NOVEL CORONAVIRUS,Disease,related_to,DISEASE,DISEASES API,,Gene,DPP4,NCBIGene:1803,related_to,Translator Text Mining Provider,CORD Biological Process API,,Gene,POSITIVE REGULATION OF BLOOD VESSEL SIZE,GO:GO:0042311
+2019 NOVEL CORONAVIRUS,Disease,related_to,scigraph,Automat CORD19 Scigraph API,,Gene,TH,NCBIGene:7054,related_to,Translator Text Mining Provider,CORD Biological Process API,,Gene,POSITIVE REGULATION OF BLOOD VESSEL SIZE,GO:GO:0042311
+2019 NOVEL CORONAVIRUS,Disease,related_to,DISEASE,DISEASES API,,Gene,REN,NCBIGene:5972,related_to,Translator Text Mining Provider,CORD Biological Process API,,Gene,POSITIVE REGULATION OF BLOOD VESSEL SIZE,GO:GO:0042311
